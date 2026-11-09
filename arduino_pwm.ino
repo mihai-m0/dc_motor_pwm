@@ -1,0 +1,9 @@
+
+void setup() {
+  pinMode(9, OUTPUT);
+  
+  analogWrite(9, 255); 
+}
+
+void loop() {
+}
